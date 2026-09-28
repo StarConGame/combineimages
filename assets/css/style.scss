@@ -1,0 +1,19 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* убрать шапку */
+.page-header {
+  display: none;
+}
+
+/* убрать footer */
+.site-footer {
+  display: none;
+}
+
+/* контент — на всю ширину без верхнего отступа */
+.main-content {
+  margin-top: 2rem;
+}
