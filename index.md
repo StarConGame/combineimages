@@ -14,11 +14,11 @@ Questions, bug reports, suggestions / Вопросы, ошибки, предло
 **FAQ**
 
 - **How do I paste a screenshot?** Capture it with Ctrl + Shift + Cmd + 4,
-  then press Shift-Cmd-V in the app.
+  then press Shift + Cmd + V in the app.
 - **Why are the Preview/Save buttons disabled?** Add at least
   one image first.
 - **Как вставить скриншот?** Снимите его через Ctrl + Shift + Cmd + 4,
-  затем нажмите Shift-Cmd-V в приложении.
+  затем нажмите Shift + Cmd + V в приложении.
 - **Почему кнопки неактивны?** Сначала добавьте хотя бы одно
   изображение.
 
