@@ -4,12 +4,12 @@
 @import "{{ site.theme }}";
 
 /* убрать шапку */
-.page-header {
+#header_wrap {
   display: none;
 }
 
 /* убрать footer */
-.site-footer {
+#footer_wrap {
   display: none;
 }
 
